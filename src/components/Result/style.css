@@ -1,0 +1,11 @@
+.card {
+    margin-right: 10px;
+    border: 0!important;
+    border-radius: 0!important;
+}
+
+.card:hover {
+    transform: scale(1.09);
+    opacity: 1;
+    cursor: pointer;
+}
